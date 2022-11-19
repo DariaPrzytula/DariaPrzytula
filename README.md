@@ -1,10 +1,14 @@
 <h3 align="center">Hi, My name is Daria. I am begginer Data Scientist from Poland</h3>
 
+ Personal development is an important aspect of my life. 
+ So far, I have practiced my creativity at the Institute of Fluid-Flow Machinery where I built, improved and patented new devices. 
+ I decided change my profession because I know that this trade will give me nonstop opportunity to improve myself.
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariaprzytula&label=Profile%20views&color=0e75b6&style=flat" alt="dariaprzytula" /> </p>
 
-- 🌱 I’m currently learning **issues related to Data Science (data visualization methods, machine learning, statistics)**
+📫 How to reach me **daria.przytula@gmail.com**
 
-- 📫 How to reach me **daria.przytula@gmail.com**
+🌱 I’m currently learning **issues related to Data Science (data visualization methods, machine learning, statistics)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
