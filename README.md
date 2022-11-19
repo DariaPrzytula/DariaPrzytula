@@ -1,7 +1,7 @@
 <h3 align="center">Hi, My name is Daria. I am begginer Data Scientist from Poland</h3>
 
  Personal development is an important aspect of my life. 
- So far, I have practiced my creativity at the Institute of Fluid-Flow Machinery where I built, improved and patented new devices. I also wrote some articles in this fiels. But I knew that I should try something new, something what will give me new power. I felt I was up against the wall. In the begining of 2021 I found free Python course and I got into it :D I felt revived and devoted myself to the whirl of science I decided change my profession because I know that this trade will give me nonstop opportunity to improve myself. 
+ So far, I have practiced my creativity at the Institute of Fluid-Flow Machinery where I built, improved and patented new devices. I also wrote some articles in this fiels. But I knew that I should try something new, something what will give me new power. I felt I was up against the wall. In the begining of 2021 I found free Python course and I got into it :D I felt revived and devoted myself to the whirl of science, so I decided change my profession because I know that this trade will give me nonstop opportunity to improve myself. 
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariaprzytula&label=Profile%20views&color=0e75b6&style=flat" alt="dariaprzytula" /> </p>
 
