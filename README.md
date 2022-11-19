@@ -9,9 +9,7 @@ I decided change my profession because I know that this trade will give me nonst
 
 📫 How to reach me **daria.przytula@gmail.com**
 
-🌱 I’m currently learning **issues related to Data Science (data visualization methods, machine learning, statistics)**
 
- What I know **issues related to Data Science (data visualization methods, machine learning, statistics)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
