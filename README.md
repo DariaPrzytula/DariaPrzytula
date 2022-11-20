@@ -23,6 +23,5 @@ or <br>
 
 
 ### 💻 Languages and Tools:
-
-
-
+![alt text](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png "Logo Title Text 1")
+https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png
