@@ -1,5 +1,7 @@
 <h3 align="center">Hi, My name is Daria. <br> I am begginer Data Scientist from Poland</h3>
 
+
+#AAAAAA
 🚀 #About me
 
 Personal development is an important aspect of my life. <br>
