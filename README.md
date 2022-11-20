@@ -23,6 +23,6 @@ or <br>
 
 
 ## 💻 Languages and Tools:
-![alt text](https://https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "Logo Title Text 1")
+![alt text]([https://www.python.org/static/community_logos/python-logo-master-v3-TM.png ](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)"Logo Title Text 1")
 
 
