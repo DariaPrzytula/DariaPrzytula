@@ -1,6 +1,6 @@
 <h3 align="center">Hi, My name is Daria. <br> I am begginer Data Scientist from Poland</h3>
 
-🚀 #About me#
+🚀 #About me
 
 Personal development is an important aspect of my life. <br>
 So far, I have practiced my creativity at the Institute of Fluid-Flow Machinery where I built, improved and patented new devices. I also wrote some articles in this fiels. But I knew that I should try something new, something what will give me new power. I felt I was up against the wall. It didn't give me enough satisfaction😴 <br>
