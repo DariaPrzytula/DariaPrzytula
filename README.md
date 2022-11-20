@@ -2,7 +2,7 @@
 
 
 
-# 🚀 About me
+### 🚀 About me
 
 Personal development is an important aspect of my life. <br>
 So far, I have practiced my creativity at the Institute of Fluid-Flow Machinery where I built, improved and patented new devices. I also wrote some articles in this fiels. But I knew that I should try something new, something what will give me new power. I felt I was up against the wall. It didn't give me enough satisfaction😴 <br>
@@ -11,7 +11,7 @@ I decided change my profession because I know that this trade will give me nonst
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariaprzytula&label=Profile%20views&color=0e75b6&style=flat" alt="dariaprzytula" /> </p>
 
-# 📫 How to reach me: 
+### 📫 How to reach me: 
 
 **daria.przytula@gmail.com** <br>
 
@@ -22,7 +22,7 @@ or <br>
 </p>
 
 
-# 💻 Languages and Tools:
+### 💻 Languages and Tools:
 
 
 
