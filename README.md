@@ -11,7 +11,7 @@ I decided change my profession because I know that this trade will give me nonst
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariaprzytula&label=Profile%20views&color=0e75b6&style=flat" alt="dariaprzytula" /> </p>
 
-📫 How to reach me: <br>
+## 📫 How to reach me: 
 
 **daria.przytula@gmail.com** <br>
 
