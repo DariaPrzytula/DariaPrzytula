@@ -8,7 +8,7 @@ Personal development has always been an essential part of my journey. <br>
 
 My engineering experience at the Institute of Fluid-Flow Machinery allowed me to build, improve, and patent new devices, fostering my creativity and problem-solving skills. Wanting to expand my expertise even further, I decided to explore a new field that would complement my technical background.<br>
 
-At the beginning of 2021, I discovered Python and quickly realized its potential in engineering and data analysis. 💥 This new skill became a valuable addition to my experience, allowing me to approach problem-solving from a fresh perspective and integrate programming into my engineering work.
+At the beginning of 2021, I discovered Python and quickly realized its potential in engineering and data analysis. This new skill became a valuable addition to my experience, allowing me to approach problem-solving from a fresh perspective and integrate programming into my engineering work.
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariaprzytula&label=Profile%20views&color=0e75b6&style=flat" alt="dariaprzytula" /> </p>
 
