@@ -1,4 +1,4 @@
-<h3 align="center">Hi, My name is Daria. <br> I am begginer Data Scientist from Poland</h3>
+<h3 align="center">Hi, My name is Daria. <br> I am engineer and begginer Data Scientist from Poland</h3>
 
 
 
