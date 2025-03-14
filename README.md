@@ -4,10 +4,11 @@
 
 ### 🚀 About me
 
-Personal development is an important aspect of my life. <br>
-So far, I have practiced my creativity at the Institute of Fluid-Flow Machinery where I built, improved and patented new devices. But one day I decided that I should try something new, something what will give me new power. 😴 <br>
-In the beginning of 2021 I found Python course and I got into it 💥 I felt revived and devoted myself to the whirl of science. <br> Currently, I am a student of postgraduate studies in Data Science. <br> 
-I decided change my profession because I know that this trade will give me nonstop opportunity to improve myself.
+Personal development has always been an essential part of my journey. <br>
+
+My engineering experience at the Institute of Fluid-Flow Machinery allowed me to build, improve, and patent new devices, fostering my creativity and problem-solving skills. Wanting to expand my expertise even further, I decided to explore a new field that would complement my technical background.<br>
+
+At the beginning of 2021, I discovered Python and quickly realized its potential in engineering and data analysis. 💥 This new skill became a valuable addition to my experience, allowing me to approach problem-solving from a fresh perspective and integrate programming into my engineering work.
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariaprzytula&label=Profile%20views&color=0e75b6&style=flat" alt="dariaprzytula" /> </p>
 
